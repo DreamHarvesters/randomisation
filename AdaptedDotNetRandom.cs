@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dh.randomisation
+namespace DH.Randomisation
 {
     public class AdaptedDotNetRandom : ICreateRandom
     {

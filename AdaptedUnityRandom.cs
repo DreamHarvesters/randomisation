@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace dh.randomisation
+namespace DH.Randomisation
 {
     public class AdaptedUnityRandom : ICreateRandom
     {

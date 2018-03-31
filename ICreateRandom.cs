@@ -1,4 +1,4 @@
-﻿namespace dh.randomisation
+﻿namespace DH.Randomisation
 {
     public interface ICreateRandom
     {
